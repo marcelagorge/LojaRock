@@ -63,9 +63,8 @@ http://localhost/phpTest
 
 Para testar as funcionalidades de login, você pode utilizar os seguintes usuários pré-cadastrados:
 
-| Usuário      | Senha  | Perfil  |
-|--------------|--------|---------|
-| `jaSobreiro` | `12345` | Admin   |
-| `daviBrito`  | `bbb`   | Cliente |
-| `jaSobreiro` | `12345` |
-| `daviBrito`  | `bbb`   |
+| Usuário      | Senha  | Tipo do Perfil  |
+|--------------|--------|-----------------|
+| `jaSobreiro` | `12345` | Admin          |
+| `daviBrito`  | `bbb`   | Cliente        |
+
