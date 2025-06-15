@@ -79,7 +79,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome_usuario`, `email`, `senha`, `funcao`, `data_criacao`) VALUES
-(2, 'jaSobreiro', 'jasobreiro@cs.up.edu.br', '$2y$10$SFnOEafmZO0pA/vJnuy.Pur.DeYyK0KE81bMCYJEDC92r3/v3lre6', 'cliente', '2025-06-15 22:17:08'),
+(2, 'jaSobreiro', 'jasobreiro@cs.up.edu.br', '$2y$10$SFnOEafmZO0pA/vJnuy.Pur.DeYyK0KE81bMCYJEDC92r3/v3lre6', 'admin', '2025-06-15 22:17:08'),
 (3, 'daviBrito', 'calmac@labreso.com', '$2y$10$DH/ezd5YLd2FFnEhnfuwr.aL7zp5x6YeJQz.yQicNNKivvDs4gp0G', 'cliente', '2025-06-15 22:22:04');
 
 --
