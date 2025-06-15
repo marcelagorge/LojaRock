@@ -36,23 +36,23 @@ O projeto deve estar localizado em `htdocs/phpTest/` para funcionar corretamente
    - Acesse o phpMyAdmin    
    - Importe o SQL com a estrutura de tabelas.
 
+3. **Inicie o servidor local (XAMPP ou similar)**  
+Acesse:  
+http://localhost/phpTest
 
-Inicie o servidor local (XAMPP ou similar)
-Acesse:
+---
 
- http://localhost/phpTest
+## 💻 Tecnologias Utilizadas:
 
-💻 Tecnologias Utilizadas:
+- PHP (procedural)
+- MySQL
+- HTML5
+- CSS3 + Bootstrap
+- JavaScript (básico)
 
-PHP (procedural)
-MySQL
-HTML5
-CSS3 + Bootstrap
-JavaScript (básico)
+---
 
-📌 Observações
-As views foram organizadas por área de responsabilidade (admin, users, products, cart).
+## 📌 Observações:
 
-O projeto segue uma divisão clara entre lógica (controllers), dados (models) e apresentação (views).
-
-
+- As views foram organizadas por área de responsabilidade (admin, users, products, cart).
+- O projeto segue uma divisão clara entre lógica (controllers), dados (models) e apresentação (views).
