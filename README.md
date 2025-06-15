@@ -44,7 +44,7 @@ http://localhost/phpTest
 
 ## 💻 Tecnologias Utilizadas:
 
-- PHP (procedural)
+- PHP 
 - MySQL
 - HTML5
 - CSS3 + Bootstrap
