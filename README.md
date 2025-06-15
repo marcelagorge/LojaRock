@@ -56,3 +56,14 @@ http://localhost/phpTest
 
 - As views foram organizadas por área de responsabilidade (admin, users, products, cart).
 - O projeto segue uma divisão clara entre lógica (controllers), dados (models) e apresentação (views).
+
+---
+
+## 👤 Usuários para Teste
+
+Para testar as funcionalidades de login, você pode utilizar os seguintes usuários pré-cadastrados:
+
+| Usuário      | Senha  |
+|--------------|--------|
+| `jaSobreiro` | `12345` |
+| `daviBrito`  | `bbb`   |
