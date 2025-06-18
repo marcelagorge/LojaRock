@@ -35,7 +35,7 @@ O projeto deve estar localizado em `htdocs/phpTest/` para funcionar corretamente
 2. **Crie o banco de dados:**  
    - Acesse o phpMyAdmin    
    - Importe o SQL com a estrutura de tabelas.
-   - verificar se está com a porta padrão, caso não esteja, descomentar o 3307 no sql.
+   - verificar se está com a porta padrão, caso não esteja, descomentar o 3307 no database.
 
 3. **Inicie o servidor local (XAMPP ou similar)**  
 Acesse:  
